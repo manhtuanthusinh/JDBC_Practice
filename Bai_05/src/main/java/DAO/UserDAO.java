@@ -91,9 +91,4 @@ public class UserDAO implements DAOinterface<User>  {
 
         return result;
     }
-
-    @Override
-    public ArrayList<User> SelectProductByPrice(Double price) {
-        return null;
-    }
 }
