@@ -1,4 +1,4 @@
-## JDBC_JPA_Hibernate
+## JDBC
 
-+ my github repo for learning and practicing
-+ 
++ my github repo for learning and practicing jdbc
++ finished
